@@ -8,7 +8,8 @@ body {
   align-items: center;
   padding-top: 40px;
   padding-bottom: 40px;
-  background-color: #ffffff;
+  background-color: #10212f;
+  background: url('../5jwv-bg.png') top center;
 }
 
 .form-signin {
